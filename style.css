@@ -1,0 +1,122 @@
+.heading{
+    text-align: center;
+}
+.navbar{
+    margin-left: 70%;
+    text-align: right;
+    border: 0px;
+    border-radius: 4px;
+}
+.top{
+    display: flex;
+    background-color: rgba(2, 2, 31, 0.959);
+    color: white;
+    padding: 5px;
+}
+#inputtext{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    float: left;
+}
+#inputtext text{
+    padding: 50px;
+}
+.color{
+    background-color: rgba(2, 2, 31, 0.959);
+    width: 600px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* padding-right: 20px; */
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    float: right;
+}
+.button{
+    border:1px solid black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px ;
+    float: left;
+    margin-right: 20%;
+}
+.button button{
+    margin-bottom: 5px;
+    border: 0px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+#output{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin-left: 50px;
+    border:1px solid black;
+    border-radius: 5px ;
+    float: right;
+}
+#btn2{
+    width: 150px;
+background-color: red;
+margin-top: 10px;
+padding: 10px;
+border-radius: 50px;
+}
+
+/* .block{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin-left: 50px;
+    border:1px solid black;
+    border-radius: 5px ;
+    float: right;
+} */
+footer{
+    text-align: center;
+    background-color: rgba(2, 2, 31, 0.959);
+    color: white;
+    padding: 5px;
+}
+.container1{
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+.b1{
+    margin-left: 150px;
+    display: block;
+    text-align: center;
+}
+.b2{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    /* display: block; */
+    text-align: center;
+}
+.b3{
+    margin-left: 150px;
+    display: block;
+    text-align: center;
+}
+.b4{
+ align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 200px;
+}
